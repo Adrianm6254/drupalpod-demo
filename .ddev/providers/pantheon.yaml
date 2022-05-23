@@ -40,7 +40,7 @@
 
 # @Todo: update the project name and pantheon environment name (dev/test/live/etc.)
 environment_variables:
-  project: project_name.pantheon_environment_name
+  project: drupalpod-demo.dev
 
 auth_command:
   command: |
